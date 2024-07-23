@@ -31,8 +31,8 @@ h1 {
   }
   
   .btn1 {
-    color: black;
-    background-color: white;
+    color: rgb(252, 252, 252);
+    background-color: rgb(20, 18, 18);
     padding: 20px;
     margin: 20px ;
     width: 300px;
@@ -40,8 +40,8 @@ h1 {
     margin-left: 120px;
   }
   .btn2{
-    color: black;
-    background-color: white;
+    color: rgb(255, 255, 255);
+    background-color: rgb(26, 25, 25);
     padding: 20px;
     margin: 20px ;
     width: 300px;
